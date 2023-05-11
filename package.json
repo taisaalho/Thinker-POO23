@@ -1,0 +1,19 @@
+{
+  "name": "thinker-poo23",
+  "version": "1.0.0",
+  "description": "Licenciatura de Tecnologias e Sistemas de Informação para Web - 2022/2023\r Trabalho de Grupo no âmbito da cadeira - Programação Orientada a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taisaalho/Thinker-POO23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taisaalho/Thinker-POO23/issues"
+  },
+  "homepage": "https://github.com/taisaalho/Thinker-POO23#readme"
+}
