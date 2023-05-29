@@ -1,3 +1,33 @@
 .navbar-brand{
     position: center;
 }
+
+#texto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.container text-center{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.col21 {
+    padding: 50px;
+}
+
+.col22 {
+    padding: 50px;
+}
+
+.col23 {
+    padding: 50px;
+}
+
+.col24 {
+    padding: 50px;
+}
