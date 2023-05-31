@@ -31,3 +31,7 @@
 .col24 {
     padding: 50px;
 }
+
+.col-6 {
+    align-self: center;
+}
